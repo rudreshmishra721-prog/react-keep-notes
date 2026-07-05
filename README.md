@@ -1,10 +1,4 @@
-
----
-
 # 2️⃣ Keep Notes
-
-```markdown
-# React Keep Notes
 
 A note-taking application inspired by Google Keep.
 
